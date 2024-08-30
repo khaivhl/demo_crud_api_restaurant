@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\API\\web api\\APIMonAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\controllers\\monancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\controllers\\monancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\services\\monanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\services\\monanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\iservices\\monaniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\iservices\\monaniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\entities\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\entities\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\entities\\congthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\entities\\congthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\entities\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\entities\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|d:\\c#\\api\\web api\\apimonan\\apimonan\\entities\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DC37-C106-4B8B-B9EB-959FE614A2AC}|APIMonAn\\APIMonAn.csproj|solutionrelative:apimonan\\entities\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "APIMonAn\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:01:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CongThuc.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\CongThuc.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Entities\\CongThuc.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\CongThuc.cs",
+              "RelativeToolTip": "APIMonAn\\Entities\\CongThuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Entities\\AppDbContext.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "APIMonAn\\Entities\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonAnController.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Controllers\\MonAnController.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Controllers\\MonAnController.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Controllers\\MonAnController.cs",
+              "RelativeToolTip": "APIMonAn\\Controllers\\MonAnController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonAnIServices.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\IServices\\MonAnIServices.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\IServices\\MonAnIServices.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\IServices\\MonAnIServices.cs",
+              "RelativeToolTip": "APIMonAn\\IServices\\MonAnIServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguyenLieu.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Entities\\NguyenLieu.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\NguyenLieu.cs",
+              "RelativeToolTip": "APIMonAn\\Entities\\NguyenLieu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonAnServices.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Services\\MonAnServices.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Services\\MonAnServices.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Services\\MonAnServices.cs",
+              "RelativeToolTip": "APIMonAn\\Services\\MonAnServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiMonAn.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\LoaiMonAn.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Entities\\LoaiMonAn.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\LoaiMonAn.cs",
+              "RelativeToolTip": "APIMonAn\\Entities\\LoaiMonAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\MonAn.cs",
+              "RelativeDocumentMoniker": "APIMonAn\\Entities\\MonAn.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIMonAn\\APIMonAn\\Entities\\MonAn.cs",
+              "RelativeToolTip": "APIMonAn\\Entities\\MonAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:57:34.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
